@@ -1,0 +1,19 @@
+{
+  "name": "forgesample",
+  "version": "1.0.0",
+  "description": "Test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ineco"
+  ],
+  "author": "diego sanchez",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3",
+    "forge-apis": "^0.8.6",
+    "multer": "^1.4.4"
+  }
+}
